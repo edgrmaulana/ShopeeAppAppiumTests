@@ -1,10 +1,6 @@
 package org.shopeepay.tests.pages;
 
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 import org.shopeepay.tests.utils.CommonUtility;
-
-import javax.xml.xpath.XPath;
 
 public class ShopeepayPage extends CommonUtility {
 
