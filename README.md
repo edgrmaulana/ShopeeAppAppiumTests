@@ -35,8 +35,11 @@ This project contains end-to-end mobile test automation for the **Shopee Android
 mvn clean install
 ```
 
-🧬 Writing New Tests
+### 🧬 Writing New Tests
 - Add .feature file in features/
 - Define step logic in steps/
 - Create reusable page functions in pages/
 - Annotate test scenario with @tag
+
+### Sample Results
+![img.png](img.png)
